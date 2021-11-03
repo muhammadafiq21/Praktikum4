@@ -1,0 +1,36 @@
+body {
+    background-image: url('1234.jpg');
+}
+
+h1{
+    Color:#000000; 
+    text-align:center; 
+    margin-top : 200px;
+}
+
+*{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+    text-align:center;
+    color: #000000;
+}
+
+td{
+    border-radius:4px;
+}
+
+
+th{
+    background-color: #81ffc0;
+    color: rgb(0, 0, 0);
+    border-radius:4px; 
+}
+
+
+.Table{
+    background-color: rgb(240, 240, 240);
+    border-radius:8px; 
+    margin-left: auto; 
+    margin-right: auto; 
+    margin-top : 20px;
+}
